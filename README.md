@@ -52,3 +52,5 @@ accuracy and F1 score. KNN is not suggested for this task at all
 |                KNN |    40.9229 |        0.8966 |   0.3790 |  0.8199 |
 
 **Next steps:** Adjust models to account for overfitting, remove KNN totally because it is not ideal for this task.
+
+**SVM Models Perform very poorly during training, therefore I was unable to capture exact metrics for the Improved Models.**
