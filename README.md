@@ -13,12 +13,11 @@ in order to access if the product (bank term deposit) would be
 
 **Baseline** - This model predicts the most frequent class. It simply serves as a reference point.
 
-                      Model  Train Time  Train Accuracy  Test Accuracy
-0  Baseline (Most Frequent)      0.0027          0.8876         0.8865
+|                     Model | Train Time | Train Accuracy | Test Accuracy |
+|  Baseline (Most Frequent) |     0.0027 |         0.8876 |        0.8865 |
 
-                      Model  Train Time  Train Accuracy  Test Accuracy
-1       Logistic Regression      0.8760          0.9117         0.9115
-0  Baseline (Most Frequent)      0.0027          0.8876         0.8865
+|                     Model | Train Time | Train Accuracy | Test Accuracy |
+|      Logistic Regression  |   0.8760   |      0.9117    |    0.9115     |
 
 **Simple Models**
 Logistic Regression has high accuracy, and performance during training/testing is very fast. SVM has high train accuracy,
